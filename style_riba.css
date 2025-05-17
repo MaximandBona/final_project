@@ -1,0 +1,14 @@
+body{
+    width: 100%;
+}
+section .ribi1 .ribi2{
+    width: 90%;
+    height: 100px;
+    background-color: aquamarine;
+    border-radius: 8px;
+}
+section .riba1 .riba2 img{
+    width: 200px;
+    height: 200px;
+    border-radius: 8px;
+}
