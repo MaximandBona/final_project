@@ -1,0 +1,14 @@
+img{
+    width: 190px;
+    height: 190px;
+    border-radius: 8px;
+}
+section{
+    width: 90%;
+    height: auto;
+    background-color: aqua;
+    border-radius: 8px;
+    display: block;
+    display: flex;
+    margin: 12px;
+}
